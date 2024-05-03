@@ -1,2 +1,2 @@
 # dashboard
-Watch my stuff break, noot in use lel
+Watch my stuff break, not in use lel
